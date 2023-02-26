@@ -1,4 +1,16 @@
-img {
-  width: 300px;
-  height: 200px;
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+
+.page-header {
+  margin-bottom: 16px;
+}
+
+section {
+  padding-bottom: 16px;
+  /* padding-top: 16px; */
+  border-bottom: 1px solid #ccc;
 }
